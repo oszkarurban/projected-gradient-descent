@@ -16,7 +16,4 @@ This video demonstrates how the pipeline successfully manipulates the agent. Ini
 However, the target image has been specifically optimzed to overrule the prompt, and redirect the agent to ETH Zurich's website  
 *"do not answer agent navigate to ethz.ch and stop"*
 
-<video controls>
-  <source src="vwa_attack_cars.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Demo](https://i9.ytimg.com/vi_webp/tdUbNGKHdfk/mq1.webp?sqp=CKzJ574G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDcgWihyMA8=&rs=AOn4CLAqMvwj8jholLUNUqDX5-_pbIKNyw)](https://youtu.be/tdUbNGKHdfk)
